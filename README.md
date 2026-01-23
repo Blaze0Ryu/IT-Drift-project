@@ -35,3 +35,35 @@
 - Løs minst en ticket hver og dokumenter hvordan dere gikk fram.
 
 <br>
+
+## `[Alt er fortsatt WIP's]`
+
+**Folder system:**
+
+-`IM`
+
+- `IT Drift Project 2026`
+  - `IT-Drift-Project`
+    - `ticketsystem-DRIFT`
+      - `ticketsystem`
+        - `templates`
+          - `index`
+          - `ticket`
+        - `app`
+        - `instruksjoner.txt`
+        - `requirements`
+        - `setup`
+
+    - `1.Ruter Maskinvare.pdf`
+    - `2. Hyper-V and Virtuell Maskin Maskinvare.pdf`
+    - `3. Tanking Maskinvare.pdf`
+    - `Ping Edition Maskinvare.pdf`
+    - `README`
+    - `Tanking machine`
+
+  - `1. Ruter Maskinvare.word`
+  - `2. Hyper-V and Virtuell Maskin Maskinvare`
+  - `3. Tanking Maskinvare`
+  - `Ruter bilde`
+  - `[Andre bilder]`
+  - `Ping Edition Maskinvare.word`
