@@ -1,0 +1,1 @@
+kjør setup.py: "python setup.py", på hostmaskinen. Ticketsystemet starter på maskinen du kjører scriptet på.
