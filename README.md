@@ -6,7 +6,7 @@
 
 <br>
 
-`200126-9.36`
+`200126-9.36 am`
 
 <br>
 
@@ -67,3 +67,13 @@
   - `Ruter bilde`
   - `[Andre bilder]`
   - `Ping Edition Maskinvare.word`
+
+<br>
+
+<br>
+
+`100226-13.48pm`
+
+`Update.:`
+
+`- Putting the rest of my notes down.`
